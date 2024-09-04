@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+.btn{
+  margin: 5px;
+  font-size: 14px;
+  padding: 7px 10px;
+}
+
+.customBtn{
+  background-color: #ffffff00;
+
+  border: none;
+  padding: 0;
+}
+
+
+.mr_3{
+  margin-right: 3rem;
+}
+
+.isChecked:checked {
+  font-style: italic;
+  text-decoration:line-through;
+  color: #ccc;
+}
